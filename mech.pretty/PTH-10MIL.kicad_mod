@@ -1,0 +1,10 @@
+(module PTH-10MIL (layer F.Cu) (tedit 581A2295)
+  (fp_text reference REF** (at 0 5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PTH-10MIL (at 0 -4.75) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.508 0.508) (drill 0.254) (layers *.Cu)
+    (solder_mask_margin 0.1524) (clearance 0.1524) (zone_connect 2))
+)
